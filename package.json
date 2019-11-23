@@ -1,0 +1,22 @@
+{
+  "name": "twc-bot",
+  "version": "1.0.0",
+  "description": "Bot for the techwear clothing discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulLGibbs/twcbot.git"
+  },
+  "author": "Paul G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulLGibbs/twcbot/issues"
+  },
+  "homepage": "https://github.com/PaulLGibbs/twcbot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
